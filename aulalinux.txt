@@ -1,0 +1,9 @@
+sudo apt update			#atualizar o sources.list
+sudo apt upgrade		#atualizar o sistema
+sudo apt full-upgrade	#atualicação completa do sistema
+sudo apt dist-upgrade	#atualicação da distribuição
+sudo apt autoremove		#auto remoção de software
+sudo apt autoclean		#auto limpeza do sistema operacional
+sudo apt install vim	#instalar software 	
+sudo reboot				#reiniciar o sistema
+history					#histórico de comandos
